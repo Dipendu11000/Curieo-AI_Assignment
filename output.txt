@@ -1,0 +1,1400 @@
+Min: 0.000000, Max: 0.000000, Mean: 0.000000
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 84.760000, Max: 84.760000, Mean: 84.760000
+Min: 0.000000, Max: 0.000000, Mean: 0.000000
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 68.420000, Max: 84.520000, Mean: 76.470000
+Min: 74.220000, Max: 74.220000, Mean: 74.220000
+Min: 37.510000, Max: 68.420000, Mean: 52.965000
+No output
+No output
+Min: 33.970000, Max: 97.150000, Mean: 73.278000
+Min: 33.970000, Max: 97.150000, Mean: 73.278000
+No output
+No output
+Min: 61.820000, Max: 97.150000, Mean: 82.553333
+No output
+No output
+No output
+Min: 37.510000, Max: 90.100000, Mean: 63.290000
+No output
+No output
+No output
+No output
+Min: 16.050000, Max: 94.220000, Mean: 59.368000
+No output
+No output
+No output
+No output
+No output
+Min: 33.970000, Max: 97.150000, Mean: 72.130000
+No output
+Min: 16.050000, Max: 85.550000, Mean: 57.744286
+Min: 51.290000, Max: 94.220000, Mean: 74.913846
+No output
+Min: 33.970000, Max: 97.150000, Mean: 71.106364
+Min: 3.090000, Max: 97.150000, Mean: 63.805333
+No output
+No output
+No output
+Min: 51.290000, Max: 87.280000, Mean: 73.177500
+No output
+Min: 37.510000, Max: 90.100000, Mean: 66.602000
+No output
+No output
+No output
+Min: 68.420000, Max: 88.690000, Mean: 78.282000
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 3.090000, Max: 97.150000, Mean: 61.589524
+No output
+No output
+No output
+No output
+No output
+Min: 16.050000, Max: 94.220000, Mean: 59.063636
+No output
+No output
+No output
+No output
+Min: 30.610000, Max: 97.150000, Mean: 66.081250
+No output
+Min: 51.290000, Max: 96.330000, Mean: 78.430909
+Min: 3.090000, Max: 97.150000, Mean: 64.308909
+No output
+No output
+No output
+No output
+Min: 0.000000, Max: 0.000000, Mean: 0.000000
+Min: 3.090000, Max: 77.790000, Mean: 40.762500
+No output
+Min: 13.020000, Max: 94.320000, Mean: 68.755000
+No output
+No output
+No output
+Min: 21.300000, Max: 96.330000, Mean: 70.985556
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 25.080000, Max: 95.770000, Mean: 53.480000
+No output
+Min: 3.090000, Max: 94.710000, Mean: 53.387143
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 2.110000, Max: 97.150000, Mean: 62.024000
+No output
+No output
+Min: 13.020000, Max: 94.710000, Mean: 68.973571
+Min: 2.130000, Max: 95.770000, Mean: 58.426000
+No output
+No output
+Min: 2.130000, Max: 95.770000, Mean: 58.964286
+No output
+No output
+No output
+Min: 3.090000, Max: 94.710000, Mean: 59.778889
+Min: 2.130000, Max: 95.770000, Mean: 58.964286
+No output
+Min: 22.140000, Max: 94.220000, Mean: 74.542500
+No output
+No output
+No output
+No output
+No output
+Min: 13.020000, Max: 94.320000, Mean: 62.080000
+No output
+No output
+No output
+Min: 13.020000, Max: 94.320000, Mean: 62.080000
+Min: 2.110000, Max: 97.150000, Mean: 59.918068
+Min: 2.110000, Max: 71.790000, Mean: 36.950000
+No output
+Min: 21.300000, Max: 96.330000, Mean: 69.112222
+Min: 2.110000, Max: 96.330000, Mean: 49.604444
+No output
+No output
+No output
+Min: 17.710000, Max: 96.330000, Mean: 66.406842
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 44.010000, Max: 88.050000, Mean: 68.000000
+No output
+No output
+No output
+No output
+Min: 68.420000, Max: 73.750000, Mean: 71.085000
+No output
+No output
+Min: 84.520000, Max: 84.520000, Mean: 84.520000
+Min: 68.420000, Max: 73.750000, Mean: 71.085000
+Min: 2.110000, Max: 71.790000, Mean: 34.980000
+Min: 40.790000, Max: 92.650000, Mean: 69.327143
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 13.020000, Max: 77.650000, Mean: 61.384000
+Min: 2.700000, Max: 98.860000, Mean: 49.838095
+No output
+No output
+No output
+Min: 1.930000, Max: 94.710000, Mean: 58.166596
+No output
+No output
+No output
+Min: 1.930000, Max: 94.710000, Mean: 46.177857
+No output
+No output
+No output
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 45.604800
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 2.110000, Max: 97.150000, Mean: 55.783929
+No output
+Min: 8.840000, Max: 96.330000, Mean: 57.140645
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 2.110000, Max: 98.860000, Mean: 54.920100
+Min: 2.110000, Max: 97.150000, Mean: 55.084333
+Min: 1.930000, Max: 98.860000, Mean: 55.296806
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 54.615242
+Min: 8.840000, Max: 96.330000, Mean: 56.452727
+Min: 1.930000, Max: 98.860000, Mean: 46.247778
+No output
+No output
+Min: 8.840000, Max: 96.330000, Mean: 57.117941
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 2.110000, Max: 97.150000, Mean: 53.045313
+No output
+Min: 2.110000, Max: 97.150000, Mean: 53.045313
+No output
+Min: 4.350000, Max: 94.320000, Mean: 54.451389
+No output
+No output
+No output
+No output
+No output
+Min: 2.130000, Max: 95.770000, Mean: 47.647143
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 46.937419
+No output
+No output
+No output
+Min: 3.090000, Max: 98.860000, Mean: 46.996000
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 43.921071
+No output
+Min: 1.930000, Max: 98.410000, Mean: 54.682159
+No output
+Min: 12.350000, Max: 96.330000, Mean: 60.747619
+No output
+Min: 28.170000, Max: 83.110000, Mean: 52.338000
+No output
+Min: 1.020000, Max: 98.860000, Mean: 54.229492
+No output
+No output
+Min: 1.020000, Max: 95.770000, Mean: 54.501026
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 4.120000, Max: 94.320000, Mean: 56.926136
+No output
+Min: 8.840000, Max: 92.650000, Mean: 53.142273
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 54.059940
+No output
+No output
+No output
+Min: 8.840000, Max: 96.330000, Mean: 55.926739
+No output
+Min: 8.840000, Max: 92.650000, Mean: 53.142273
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 42.920000, Max: 42.920000, Mean: 42.920000
+Min: 5.570000, Max: 96.330000, Mean: 54.052708
+Min: 5.570000, Max: 96.330000, Mean: 54.052708
+No output
+Min: 1.020000, Max: 95.770000, Mean: 52.359565
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.450000, Max: 94.320000, Mean: 55.228750
+No output
+No output
+No output
+Min: 5.570000, Max: 96.910000, Mean: 54.028846
+Min: 1.930000, Max: 98.860000, Mean: 45.396190
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 95.770000, Mean: 52.827347
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 52.449362
+No output
+No output
+No output
+No output
+No output
+Min: 2.110000, Max: 98.860000, Mean: 54.007229
+No output
+No output
+No output
+Min: 1.020000, Max: 96.500000, Mean: 53.700800
+No output
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 52.416738
+No output
+Min: 1.020000, Max: 96.500000, Mean: 54.052941
+No output
+Min: 2.740000, Max: 96.500000, Mean: 62.941667
+No output
+Min: 36.670000, Max: 92.430000, Mean: 68.177500
+No output
+No output
+No output
+No output
+No output
+Min: 1.450000, Max: 94.320000, Mean: 55.961091
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 51.394615
+Min: 1.020000, Max: 95.770000, Mean: 51.665500
+No output
+No output
+No output
+Min: 2.110000, Max: 98.860000, Mean: 54.529841
+Min: 1.930000, Max: 98.860000, Mean: 46.387917
+Min: 1.930000, Max: 98.860000, Mean: 46.387917
+No output
+No output
+No output
+Min: 2.790000, Max: 98.650000, Mean: 62.210303
+No output
+No output
+Min: 2.110000, Max: 93.350000, Mean: 47.723571
+No output
+Min: 1.020000, Max: 96.500000, Mean: 54.927544
+No output
+No output
+Min: 1.020000, Max: 95.770000, Mean: 52.022791
+Min: 2.110000, Max: 93.350000, Mean: 52.231429
+No output
+No output
+No output
+Min: 1.020000, Max: 96.500000, Mean: 54.333800
+Min: 1.020000, Max: 98.650000, Mean: 52.711256
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 51.089464
+Min: 1.020000, Max: 98.860000, Mean: 55.059835
+No output
+No output
+Min: 2.740000, Max: 96.500000, Mean: 60.752500
+Min: 1.450000, Max: 98.650000, Mean: 59.234694
+No output
+No output
+No output
+Min: 1.930000, Max: 94.710000, Mean: 43.423824
+No output
+Min: 1.450000, Max: 98.650000, Mean: 57.145088
+Min: 5.570000, Max: 96.910000, Mean: 53.162131
+No output
+Min: 63.970000, Max: 63.970000, Mean: 63.970000
+Min: 1.020000, Max: 96.500000, Mean: 55.334167
+No output
+No output
+Min: 23.730000, Max: 66.620000, Mean: 41.290000
+No output
+No output
+Min: 17.710000, Max: 96.330000, Mean: 56.942222
+No output
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 51.768092
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 47.516250
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 3.190000, Max: 92.430000, Mean: 52.581429
+No output
+Min: 1.270000, Max: 98.410000, Mean: 49.325789
+No output
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 50.497582
+No output
+No output
+No output
+Min: 1.450000, Max: 98.650000, Mean: 55.270526
+No output
+Min: 40.570000, Max: 71.790000, Mean: 52.310000
+No output
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 54.339687
+Min: 1.020000, Max: 98.860000, Mean: 55.300490
+No output
+Min: 1.020000, Max: 97.010000, Mean: 54.687941
+Min: 1.930000, Max: 98.860000, Mean: 49.634375
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 51.010615
+Min: 1.730000, Max: 96.910000, Mean: 52.767654
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 49.231642
+No output
+No output
+Min: 1.020000, Max: 98.650000, Mean: 52.312409
+No output
+Min: 0.000000, Max: 0.000000, Mean: 0.000000
+No output
+Min: 5.570000, Max: 98.430000, Mean: 55.050000
+No output
+Min: 1.020000, Max: 98.860000, Mean: 54.791908
+No output
+No output
+No output
+Min: 2.110000, Max: 94.050000, Mean: 47.590625
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 53.400582
+No output
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 52.776834
+Min: 1.020000, Max: 98.650000, Mean: 52.305093
+Min: 1.930000, Max: 98.860000, Mean: 49.956714
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 53.253109
+No output
+Min: 44.940000, Max: 94.050000, Mean: 71.097500
+Min: 1.930000, Max: 98.860000, Mean: 49.777255
+Min: 1.930000, Max: 98.860000, Mean: 49.956714
+No output
+No output
+No output
+No output
+Min: 5.570000, Max: 98.430000, Mean: 55.154684
+Min: 1.020000, Max: 97.010000, Mean: 54.896711
+No output
+No output
+Min: 1.270000, Max: 98.650000, Mean: 51.805347
+Min: 1.450000, Max: 98.650000, Mean: 55.519706
+No output
+No output
+Min: 1.490000, Max: 98.410000, Mean: 52.371176
+No output
+Min: 1.020000, Max: 98.860000, Mean: 55.636689
+No output
+Min: 7.950000, Max: 98.860000, Mean: 60.275000
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 52.273729
+Min: 2.110000, Max: 94.050000, Mean: 52.109714
+Min: 7.950000, Max: 98.860000, Mean: 64.490000
+Min: 5.570000, Max: 98.430000, Mean: 56.011143
+Min: 1.270000, Max: 98.410000, Mean: 50.254167
+No output
+Min: 3.090000, Max: 98.860000, Mean: 53.312813
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 54.746968
+No output
+Min: 7.360000, Max: 94.320000, Mean: 60.201111
+No output
+Min: 5.570000, Max: 98.430000, Mean: 57.313412
+Min: 3.190000, Max: 92.430000, Mean: 48.371250
+No output
+Min: 5.570000, Max: 98.430000, Mean: 57.313412
+No output
+Min: 1.450000, Max: 98.650000, Mean: 56.329714
+No output
+No output
+No output
+Min: 1.020000, Max: 98.650000, Mean: 53.280588
+No output
+Min: 1.020000, Max: 98.860000, Mean: 54.260000
+No output
+Min: 1.340000, Max: 98.860000, Mean: 56.153385
+No output
+Min: 2.110000, Max: 94.050000, Mean: 41.838000
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 55.310523
+No output
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 49.586316
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 53.563140
+No output
+No output
+Min: 2.110000, Max: 94.050000, Mean: 52.865926
+No output
+Min: 5.570000, Max: 98.160000, Mean: 56.440769
+No output
+No output
+No output
+No output
+No output
+Min: 5.570000, Max: 98.430000, Mean: 58.124945
+No output
+Min: 1.730000, Max: 98.160000, Mean: 52.481193
+Min: 1.930000, Max: 98.860000, Mean: 49.760649
+Min: 1.020000, Max: 98.860000, Mean: 53.531638
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.450000, Max: 98.650000, Mean: 54.846623
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 54.256923
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 48.205303
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 53.003417
+No output
+No output
+No output
+No output
+Min: 2.070000, Max: 98.430000, Mean: 57.929709
+No output
+No output
+No output
+Min: 3.190000, Max: 3.190000, Mean: 3.190000
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 98.650000, Mean: 52.404091
+No output
+Min: 1.270000, Max: 92.430000, Mean: 47.861200
+Min: 1.020000, Max: 98.860000, Mean: 53.234939
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 53.558491
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 7.980000, Max: 98.430000, Mean: 56.983103
+Min: 2.070000, Max: 98.160000, Mean: 63.512273
+No output
+Min: 1.450000, Max: 98.650000, Mean: 55.499535
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 53.761971
+Min: 2.070000, Max: 98.430000, Mean: 58.467500
+No output
+No output
+No output
+No output
+Min: 2.110000, Max: 94.050000, Mean: 45.980000
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 52.418776
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 51.970000
+No output
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 54.129503
+Min: 1.020000, Max: 98.860000, Mean: 53.959018
+Min: 2.110000, Max: 98.860000, Mean: 53.851132
+No output
+No output
+Min: 1.450000, Max: 98.650000, Mean: 54.742391
+Min: 2.070000, Max: 98.430000, Mean: 58.653246
+Min: 1.020000, Max: 97.010000, Mean: 51.385882
+Min: 1.450000, Max: 98.650000, Mean: 54.742391
+No output
+No output
+Min: 2.070000, Max: 98.430000, Mean: 58.653246
+Min: 1.930000, Max: 94.710000, Mean: 47.266393
+No output
+Min: 1.020000, Max: 98.860000, Mean: 55.710293
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.730000, Max: 98.160000, Mean: 53.643088
+No output
+No output
+Min: 2.110000, Max: 94.050000, Mean: 55.111563
+No output
+No output
+Min: 2.070000, Max: 98.160000, Mean: 56.419848
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.270000, Max: 97.510000, Mean: 50.651562
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 50.005849
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.240000, Max: 98.650000, Mean: 51.689091
+No output
+Min: 1.450000, Max: 98.650000, Mean: 55.079687
+Min: 1.020000, Max: 97.010000, Mean: 50.947822
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 98.860000, Mean: 54.791211
+Min: 3.230000, Max: 88.050000, Mean: 48.390909
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.960000, Max: 98.430000, Mean: 57.291163
+Min: 1.240000, Max: 96.500000, Mean: 53.392917
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 50.440619
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 53.468109
+Min: 2.110000, Max: 94.050000, Mean: 39.410909
+Min: 1.960000, Max: 99.970000, Mean: 57.811278
+Min: 1.270000, Max: 98.410000, Mean: 50.440619
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 50.642766
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 50.326633
+No output
+No output
+Min: 1.450000, Max: 98.920000, Mean: 54.105138
+No output
+Min: 1.020000, Max: 97.010000, Mean: 50.644615
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 50.520606
+Min: 1.960000, Max: 99.970000, Mean: 57.583382
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 54.322364
+Min: 1.020000, Max: 99.970000, Mean: 52.668458
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 51.976434
+No output
+Min: 1.730000, Max: 98.860000, Mean: 52.235043
+No output
+Min: 3.320000, Max: 95.770000, Mean: 49.894516
+No output
+No output
+No output
+Min: 3.190000, Max: 92.430000, Mean: 51.336667
+No output
+No output
+No output
+Min: 1.450000, Max: 98.920000, Mean: 53.966106
+Min: 1.020000, Max: 97.010000, Mean: 51.422149
+No output
+Min: 1.930000, Max: 98.860000, Mean: 51.171509
+No output
+Min: 1.020000, Max: 97.010000, Mean: 50.819457
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.730000, Max: 98.860000, Mean: 51.815075
+No output
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 50.765981
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 50.119550
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 50.119550
+No output
+No output
+No output
+No output
+Min: 1.960000, Max: 99.970000, Mean: 57.568652
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 51.297177
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 53.376404
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 51.469200
+Min: 1.240000, Max: 99.210000, Mean: 51.912010
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 51.232063
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 53.598136
+No output
+No output
+No output
+No output
+No output
+Min: 1.930000, Max: 98.860000, Mean: 51.206783
+No output
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 53.991463
+Min: 2.070000, Max: 98.860000, Mean: 56.654848
+No output
+Min: 1.930000, Max: 98.860000, Mean: 51.289397
+No output
+No output
+Min: 1.240000, Max: 99.210000, Mean: 52.505859
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.240000, Max: 99.210000, Mean: 52.222040
+No output
+No output
+Min: 1.960000, Max: 99.970000, Mean: 56.754876
+No output
+Min: 1.340000, Max: 98.920000, Mean: 54.378528
+No output
+Min: 1.020000, Max: 97.010000, Mean: 51.964154
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 51.842727
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.340000, Max: 98.140000, Mean: 50.935294
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 52.644306
+No output
+Min: 3.190000, Max: 93.590000, Mean: 55.705625
+Min: 1.930000, Max: 98.860000, Mean: 50.950750
+No output
+No output
+No output
+No output
+Min: 1.730000, Max: 98.860000, Mean: 51.237474
+No output
+Min: 2.070000, Max: 98.860000, Mean: 57.694167
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 3.090000, Max: 98.860000, Mean: 54.201803
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.240000, Max: 99.210000, Mean: 50.785983
+No output
+No output
+No output
+Min: 2.110000, Max: 98.920000, Mean: 57.415417
+Min: 2.110000, Max: 98.920000, Mean: 51.949710
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 52.523465
+Min: 1.270000, Max: 98.410000, Mean: 49.722377
+No output
+No output
+Min: 2.110000, Max: 94.050000, Mean: 48.367600
+No output
+No output
+No output
+Min: 1.240000, Max: 99.970000, Mean: 51.474452
+Min: 1.240000, Max: 99.210000, Mean: 51.219283
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 2.110000, Max: 98.920000, Mean: 56.842609
+No output
+No output
+No output
+Min: 1.240000, Max: 99.210000, Mean: 50.788469
+Min: 1.020000, Max: 99.970000, Mean: 53.123278
+Min: 1.270000, Max: 98.410000, Mean: 49.828629
+No output
+No output
+No output
+Min: 1.910000, Max: 98.920000, Mean: 56.214539
+No output
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 52.933453
+Min: 1.930000, Max: 99.500000, Mean: 50.948593
+No output
+No output
+Min: 1.960000, Max: 99.970000, Mean: 61.035867
+Min: 1.020000, Max: 97.010000, Mean: 52.643655
+Min: 2.110000, Max: 98.920000, Mean: 58.828125
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.340000, Max: 98.920000, Mean: 55.104071
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.930000, Max: 99.500000, Mean: 49.773889
+No output
+No output
+Min: 1.960000, Max: 99.970000, Mean: 57.135658
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 3.320000, Max: 95.710000, Mean: 58.102941
+Min: 1.270000, Max: 98.410000, Mean: 49.030827
+Min: 1.450000, Max: 99.210000, Mean: 53.064184
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.240000, Max: 99.210000, Mean: 50.420631
+No output
+Min: 1.020000, Max: 99.970000, Mean: 52.735575
+No output
+No output
+Min: 1.930000, Max: 99.500000, Mean: 50.086014
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 48.519111
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 52.421320
+No output
+Min: 3.320000, Max: 95.770000, Mean: 53.523043
+No output
+No output
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 52.575075
+No output
+No output
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 48.278582
+No output
+Min: 1.240000, Max: 97.830000, Mean: 54.598375
+Min: 1.240000, Max: 99.210000, Mean: 50.413860
+No output
+No output
+Min: 14.510000, Max: 94.050000, Mean: 54.408000
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 47.955986
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.892067
+No output
+No output
+Min: 2.200000, Max: 98.920000, Mean: 54.689512
+Min: 1.960000, Max: 99.970000, Mean: 57.723522
+Min: 10.670000, Max: 93.590000, Mean: 55.282000
+Min: 1.960000, Max: 99.970000, Mean: 56.808278
+Min: 1.270000, Max: 98.410000, Mean: 48.165315
+No output
+No output
+No output
+Min: 77.160000, Max: 94.050000, Mean: 85.605000
+Min: 1.020000, Max: 98.920000, Mean: 54.980128
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 49.270826
+No output
+No output
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 53.308993
+No output
+No output
+No output
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.888816
+Min: 1.020000, Max: 99.970000, Mean: 53.722667
+No output
+No output
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 53.308993
+Min: 1.240000, Max: 99.210000, Mean: 49.763873
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 46.415859
+Min: 1.270000, Max: 98.410000, Mean: 48.330083
+Min: 1.020000, Max: 98.920000, Mean: 54.717325
+Min: 1.960000, Max: 99.970000, Mean: 56.752707
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.240000, Max: 99.210000, Mean: 50.426070
+Min: 1.020000, Max: 97.830000, Mean: 52.679695
+Min: 1.960000, Max: 99.970000, Mean: 56.710659
+No output
+Min: 1.270000, Max: 98.410000, Mean: 48.530240
+No output
+No output
+Min: 2.070000, Max: 98.860000, Mean: 51.605147
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 52.383358
+Min: 1.450000, Max: 99.210000, Mean: 53.909241
+Min: 2.070000, Max: 98.860000, Mean: 49.439315
+No output
+No output
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 53.909241
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 50.093777
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 52.652767
+Min: 1.960000, Max: 99.970000, Mean: 55.952432
+Min: 3.190000, Max: 98.110000, Mean: 53.976774
+No output
+Min: 1.020000, Max: 97.830000, Mean: 52.342882
+No output
+No output
+No output
+Min: 1.960000, Max: 99.970000, Mean: 56.008901
+Min: 1.450000, Max: 99.210000, Mean: 53.131379
+No output
+Min: 1.020000, Max: 97.830000, Mean: 52.342882
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.960000, Max: 99.970000, Mean: 56.425132
+Min: 1.210000, Max: 99.500000, Mean: 49.894269
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.642989
+No output
+No output
+No output
+No output
+No output
+Min: 3.320000, Max: 95.770000, Mean: 56.922750
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.460400
+No output
+Min: 1.020000, Max: 99.970000, Mean: 52.630894
+Min: 1.210000, Max: 99.500000, Mean: 49.460400
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.270000, Max: 98.410000, Mean: 48.015491
+No output
+No output
+No output
+Min: 2.070000, Max: 98.860000, Mean: 50.894000
+Min: 1.960000, Max: 99.970000, Mean: 56.316789
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.970000, Mean: 50.530351
+Min: 1.450000, Max: 99.210000, Mean: 52.261625
+No output
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.920667
+No output
+No output
+Min: 46.450000, Max: 94.050000, Mean: 70.763333
+Min: 1.450000, Max: 99.210000, Mean: 53.487870
+No output
+No output
+No output
+No output
+No output
+Min: 2.740000, Max: 97.830000, Mean: 55.511739
+No output
+No output
+Min: 1.020000, Max: 97.010000, Mean: 52.116336
+No output
+Min: 2.200000, Max: 98.920000, Mean: 52.380000
+No output
+No output
+No output
+Min: 1.960000, Max: 99.970000, Mean: 56.358281
+No output
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 53.735029
+No output
+No output
+Min: 2.110000, Max: 98.920000, Mean: 54.190870
+No output
+Min: 1.020000, Max: 99.970000, Mean: 52.237811
+No output
+Min: 1.730000, Max: 93.590000, Mean: 45.231714
+No output
+No output
+Min: 2.740000, Max: 97.830000, Mean: 55.682000
+Min: 1.240000, Max: 97.830000, Mean: 52.658200
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 50.849535
+No output
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 53.735029
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 2.110000, Max: 98.920000, Mean: 55.924919
+No output
+No output
+No output
+Min: 1.340000, Max: 98.140000, Mean: 50.824000
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.420794
+No output
+No output
+Min: 1.240000, Max: 99.210000, Mean: 49.172981
+Min: 1.210000, Max: 99.500000, Mean: 49.420794
+Min: 2.110000, Max: 94.050000, Mean: 42.680000
+No output
+No output
+No output
+No output
+Min: 4.210000, Max: 98.110000, Mean: 44.328235
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.475312
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.475312
+No output
+No output
+No output
+Min: 1.020000, Max: 98.400000, Mean: 52.747026
+No output
+No output
+No output
+Min: 1.020000, Max: 99.990000, Mean: 51.983442
+Min: 1.210000, Max: 99.500000, Mean: 49.547824
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 4.210000, Max: 98.110000, Mean: 46.304286
+Min: 1.240000, Max: 99.210000, Mean: 49.220890
+No output
+No output
+Min: 1.730000, Max: 98.860000, Mean: 47.967248
+No output
+No output
+Min: 1.450000, Max: 99.210000, Mean: 53.849218
+No output
+No output
+No output
+No output
+No output
+Min: 1.960000, Max: 99.990000, Mean: 57.354301
+Min: 1.210000, Max: 99.500000, Mean: 47.340968
+No output
+Min: 1.020000, Max: 99.290000, Mean: 53.138010
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.990000, Mean: 51.181682
+No output
+No output
+No output
+No output
+No output
+No output
+Min: 1.020000, Max: 99.290000, Mean: 53.226759
+Min: 1.020000, Max: 99.990000, Mean: 55.054848
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.479794
+Min: 1.020000, Max: 99.290000, Mean: 53.221176
+No output
+Min: 1.340000, Max: 99.990000, Mean: 55.676436
+Min: 1.240000, Max: 97.830000, Mean: 52.352121
+No output
+Min: 1.020000, Max: 99.990000, Mean: 52.106989
+No output
+Min: 1.210000, Max: 99.500000, Mean: 49.968902
+No output
+No output
+No output
+No output
+Min: 1.960000, Max: 99.990000, Mean: 55.291796
+No output
+No output
+Min: 2.110000, Max: 98.920000, Mean: 56.392115
+No output
+Min: 3.230000, Max: 98.110000, Mean: 47.493036
+No output
+Min: 1.340000, Max: 98.140000, Mean: 48.794190
+No output
+Min: 1.020000, Max: 99.990000, Mean: 55.345921
+Min: 1.910000, Max: 99.290000, Mean: 55.857924
+No output
+No output
+No output
